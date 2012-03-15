@@ -1,0 +1,20 @@
+Extra Credit:  Function Checklists
+
+Writing Functions
+
+Did you start your function definition with def?
+Does your function name have only alpha characters and _ (underscore) characters?
+Did you put and open parenthesis ( right after the function name?
+Did you put your arguements after the parenthesis ( separated by commas?
+Did you make each argument unique (meaning no dupilcated names)?
+Did you put a close parenthesis ) after the arguments?
+Did you indent all lines of code you want in the function 2 spaces?
+Did you close your function body by typing "end"?
+
+And when you run (aka "use" or "call") a function, check these things:
+
+Did you call/use/run this function by typing its name?
+Did you put ( character after the name to run it? (this isn't required, but is idiomatic)
+Did you put the values you want into the parenthesis separated by commas?
+Did you end the function call with a ) character?
+
